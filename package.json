@@ -1,6 +1,6 @@
 {
   "name": "zergski-global",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Global object for easy handling of custom hooks, references and data. Bundled with an intersectionObserver",
   "main": "index.js",
   "files": [
@@ -27,9 +27,5 @@
   "bugs": {
     "url": "https://github.com/whysosergious/npm-zergski-global/issues"
   },
-  "homepage": "https://www.zergski.com",
-
-  "dependencies": {
-    "zergski-global": "^1.0.1"
-  }
+  "homepage": "https://www.zergski.com"
 }
