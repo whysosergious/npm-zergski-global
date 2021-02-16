@@ -1,8 +1,12 @@
 {
   "name": "zergski-global",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Global object for easy handling of custom hooks, references and data. Bundled with an intersectionObserver",
   "main": "index.js",
+  "files": [
+    "index.d.ts"
+  ],
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,6 +28,7 @@
     "url": "https://github.com/whysosergious/npm-zergski-global/issues"
   },
   "homepage": "https://www.zergski.com",
+
   "dependencies": {
     "zergski-global": "^1.0.1"
   }
